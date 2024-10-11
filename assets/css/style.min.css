@@ -3,3 +3,8 @@
 .blog-list-section .blog-list-box .blog-list{
     margin-bottom: 50px;
 }
+
+.mobile-header .mobile-logo{
+    max-width: 50px;
+
+}
